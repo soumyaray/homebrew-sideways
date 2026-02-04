@@ -1,8 +1,8 @@
 class Sideways < Formula
   desc "Git worktree helper - easily manage parallel working directories"
   homepage "https://github.com/soumyaray/sideways"
-  url "https://github.com/soumyaray/sideways/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "8fd807a8ded9e9b2f175d8ed51aa47e58ddaf10440a27dfa4575297bbe59fdf7"
+  url "https://github.com/soumyaray/sideways/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "2e65fec4507c2971492473f9b58276d19a83a18dfb3c3affa7c876030a153c67"
   license "MIT"
   head "https://github.com/soumyaray/sideways.git", branch: "main"
 
